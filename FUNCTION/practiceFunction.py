@@ -7,4 +7,5 @@ def print_list(list):
         print(i, end=" " )
 
 print_list(cities)
+print()
 print_list(friends)
