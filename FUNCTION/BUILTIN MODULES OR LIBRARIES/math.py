@@ -22,3 +22,6 @@ print('-'*30)
 
 print(10, math.factorial(10))
 print(5,math.factorial(5))
+
+import random
+print(random.random())
