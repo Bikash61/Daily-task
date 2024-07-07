@@ -1,0 +1,10 @@
+import random
+print(random.random())
+print('*'*30)
+print(random.randint(3,89))
+print('*'*30)
+print(random.choice([2,3,4,5,6]))
+print('*'*30)
+print(random.sample([1,2,6,3,7,8,9,0],3))
+print('*'*30)
+print(random.uniform(1.0,8.0))
