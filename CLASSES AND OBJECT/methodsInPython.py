@@ -1,15 +1,15 @@
-# class person:
+class person:
 
-#     def __init__(self):
-#         print("Program starts to run")
+    def __init__(self):
+        print("Program starts to run")
 
-#     def runs(self):
-#         print("Program is running")
+    def runs(self):
+        print("Program is running")
     
-# p1 = person()
-# p1.runs()
-# print('-'*40)
-# print(p1.__init__())
+p1 = person()
+p1.runs()
+print('-'*40)
+print(p1.__init__())
 
 
 #Making a game using python classes and objects
