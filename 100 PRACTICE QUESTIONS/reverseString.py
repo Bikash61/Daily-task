@@ -1,4 +1,4 @@
-#Write a code to reverse the string
+#Write a program to reverse the string
 def reverse_string(s):
     return s[::-1]
 
